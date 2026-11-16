@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 16 Nov 2026 08:46:00 +0000
+Description: NOVA Official Software Repository
+Label: NOVA Repository
+Origin: NOVA
+Suite: stable
+MD5Sum:
+ 4a4dd3598707603b3f76a2378a4504aa               20 main/binary-amd64/Packages.gz
+SHA1:
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/binary-amd64/Packages.gz
+SHA256:
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/binary-amd64/Packages.gz
+SHA512:
+ 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE0lrtkwuP8dERFXMp87+MXHdc1hIFAmr6wxEACgkQ87+MXHdc
+1hLp7AwAq0F8ovxHk+UTOvs3jg85ss6DhZOL95/U1+zC6KAZRJxy618wrmLFJg31
+hMLa0mOMBaRD0fkrP3Azn+4PBPReODtcgSrhtaP5nVZ2l9UBBa2V9cLq7OsQeXrN
+3Vup7LVotP54T10D1zm6B5ju6NoRNDXNFt5aZzvccyMOZAqJng+KNxlp96cNOwnv
+4WsJWINYMI+/5EOGO6FatRbARhGeJm5NYAB17Z4+WM8KfhY0O1bmHcP3ol7EHscj
+WWFC7oaEA1E0Qlmkb2/mqi6GKk5XCer/j/TEIG42bhYyAtcLtjsMfoh5JSgjZHOF
++LwzWDI5TLRU6z7YxM/ERbW5umfw0eVu6MCE1vNvuFX/8cvgI24SGHfXXvJLuA3y
+sWHZjINnbRSGf6wFKQ/RA433WQLfWQ8pYViUMbwof7LKaciXtB0dfZ5LjelCVm0A
+3plKqaNs7xS/kQfYJISUThbHzVWC09J4wZHhd2FY91yO6o/6Zqj6f/CBSLQPdyLW
+4urOhNMA
+=F2tU
+-----END PGP SIGNATURE-----

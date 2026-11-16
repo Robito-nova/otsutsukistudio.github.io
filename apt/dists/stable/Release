@@ -1,0 +1,16 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 16 Nov 2026 08:46:00 +0000
+Description: NOVA Official Software Repository
+Label: NOVA Repository
+Origin: NOVA
+Suite: stable
+MD5Sum:
+ 4a4dd3598707603b3f76a2378a4504aa               20 main/binary-amd64/Packages.gz
+SHA1:
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/binary-amd64/Packages.gz
+SHA256:
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/binary-amd64/Packages.gz
+SHA512:
+ 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 main/binary-amd64/Packages.gz
